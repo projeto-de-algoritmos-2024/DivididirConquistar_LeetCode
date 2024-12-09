@@ -3,7 +3,8 @@ Temas:
 
 # LeetCode
 
-**Número da Lista**: 2
+**Número da Lista**: 3
+
 **Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Alunos
