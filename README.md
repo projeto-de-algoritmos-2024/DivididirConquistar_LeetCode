@@ -1,45 +1,31 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+ - Dividir e Conquistar
 
-# NomedoProjeto
+# LeetCode
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 2
+**Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0110066  | Johnny da Ponte Lopes |
+| 21/1062259 |  Mateus Orlando Medeiros Ribeiro |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém questões resolvidas, sobre o conteúdo de Dividir e Conquistar, do site [LeetCode](https://leetcode.com). Tais questões foram usadas para praticar e aplicar o que nos foi ministrado pelo Prof. Maurício durante o desenvolvimento do primeiro tópico da Disciplina de Projeto de Algoritmos. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Questões
+| Exercício | Dificuldade | Enunciado | Aluno |
+| -- | -- | -- | -- |
+| [-](-) | Hard | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
+| [-](-) | Hard | [Clique Aqui](-) | Johnny da Ponte Lopes |
+| [](-) | Medium | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
+| [](-) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+**Linguagem**: C
 
 
 
