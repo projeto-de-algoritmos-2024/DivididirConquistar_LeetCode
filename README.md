@@ -19,7 +19,7 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Dividir e C
 ## Questões
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
-| [-](-) | Hard | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
+| [218. The Skyline Problem](-) | Hard | [Clique Aqui](https://leetcode.com/problems/the-skyline-problem/description/) | Mateus Orlando Medeiros Ribeiro |
 | [-](-) | Hard | [Clique Aqui](-) | Johnny da Ponte Lopes |
 | [](-) | Medium | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
 | [](-) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
