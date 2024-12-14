@@ -1,6 +1,6 @@
 ## #218. The Skyline Problem
 
-""Cabeçalho aqui""
+![image](https://github.com/user-attachments/assets/e69866b5-43e1-4bd0-a4e8-a029d5354a4c)
 
 [Link para a questão](https://leetcode.com/problems/the-skyline-problem/description/)
 
@@ -28,7 +28,7 @@ Note: There must be no consecutive horizontal lines of equal height in the outpu
 
 Example 1:
 
-"Imagem aqui"
+![image](https://github.com/user-attachments/assets/05a5a2ef-5f95-4949-8f63-7bd70f6c93ef)
 
 - Input: buildings = [[2,9,10],[3,7,15],[5,12,12],[15,20,10],[19,24,8]]
 
@@ -54,6 +54,8 @@ Constraints:
 - buildings is sorted by lefti in non-decreasing order.
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/15e39f2a-72f3-4303-8427-586f2fb00ca3)
+![image](https://github.com/user-attachments/assets/b8ebe5ad-ef83-40e9-983f-e6462db3b7b2)
 
 
 
