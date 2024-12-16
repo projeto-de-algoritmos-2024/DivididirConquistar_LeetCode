@@ -21,7 +21,7 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Dividir e C
 | -- | -- | -- | -- |
 | [218. The Skyline Problem](https://github.com/projeto-de-algoritmos-2024/DivididirConquistar_LeetCode/blob/master/questao1/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/the-skyline-problem/description/) | Mateus Orlando Medeiros Ribeiro |
 | [-](-) | Hard | [Clique Aqui](-) | Johnny da Ponte Lopes |
-| [](-) | Medium | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
+| [912. Sort an Array](https://github.com/projeto-de-algoritmos-2024/DivididirConquistar_LeetCode/blob/master/questao3/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/sort-an-array/description/) | Mateus Orlando Medeiros Ribeiro |
 | [](-) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
 
 
