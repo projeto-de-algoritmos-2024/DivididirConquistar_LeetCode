@@ -20,13 +20,13 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Dividir e C
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
 | [218. The Skyline Problem](https://github.com/projeto-de-algoritmos-2024/DivididirConquistar_LeetCode/blob/master/questao1/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/the-skyline-problem/description/) | Mateus Orlando Medeiros Ribeiro |
-| [-](-) | Hard | [Clique Aqui](-) | Johnny da Ponte Lopes |
+| [315. Count of Smaller Numbers After Self](-) | Hard | [Clique Aqui](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Johnny da Ponte Lopes |
 | [912. Sort an Array](https://github.com/projeto-de-algoritmos-2024/DivididirConquistar_LeetCode/blob/master/questao3/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/sort-an-array/description/) | Mateus Orlando Medeiros Ribeiro |
-| [](-) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
+| [215. Kth Largest Element in an Array](-) | Medium | [Clique Aqui](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Johnny da Ponte Lopes |
 
 
 ## Instalação 
-**Linguagem**: C
+**Linguagem**: C/Python
 
 
 
