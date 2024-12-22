@@ -1,6 +1,6 @@
 ## #215. Kth Largest Element in an Array
 
-![image](https://github.com/user-attachments/assets/1eff8ddc-6f30-4fae-9c0c-77fe49b4be1b)
+![image](https://github.com/user-attachments/assets/95c52816-96bd-4e1d-a771-9d727692f3e9)
 
 
 [Link para a questão](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
