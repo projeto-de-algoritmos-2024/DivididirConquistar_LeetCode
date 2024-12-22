@@ -1,6 +1,6 @@
 ## #315. Count of Smaller Numbers After Self
 
-
+![image](https://github.com/user-attachments/assets/1b275aad-1d71-4e0e-ace7-f666a048b56b)
 
 [Link para a questão](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 
