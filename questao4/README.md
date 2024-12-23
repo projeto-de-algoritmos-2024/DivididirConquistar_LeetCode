@@ -7,7 +7,7 @@
 
 ### Gravação
 
-Link da Gravação [clique aqui]()
+Link da Gravação [clique aqui](https://www.youtube.com/watch?v=IqUpHE8X46s)
 
 #### Dificuldade: Média
 

@@ -5,7 +5,7 @@
 
 ### Gravação
 
-Link da Gravação [clique aqui]()
+Link da Gravação [clique aqui](https://www.youtube.com/watch?v=uQE1tJZD6b4)
 
 #### Dificuldade: Difícil
 
