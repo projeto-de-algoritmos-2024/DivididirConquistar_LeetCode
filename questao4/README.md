@@ -36,5 +36,7 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/532c7271-b43b-43cd-826f-4fae82c16ca2)
+![image](https://github.com/user-attachments/assets/d0e05d85-d2be-4550-8f50-c1ae9745c6e3)
 
 
