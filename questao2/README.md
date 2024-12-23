@@ -40,6 +40,10 @@ Constraints:
 - -104 <= nums[i] <= 104
     
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/ce475b4b-f8b6-486b-acfe-f12bb41d311f)
+
+![image](https://github.com/user-attachments/assets/fd30616b-0436-48df-85b5-ccc5b1cbda9f)
+
 
 
 
